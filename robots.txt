@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://janwimittal4-eng.github.io/advanedcollagenplus/sitemap.xml
+Sitemap: https://advanced-collagen-plus-one.vercel.app/sitemap.xml
